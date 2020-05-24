@@ -1,5 +1,5 @@
 # node-audio-stream
-Uploading/Streaming Audio using NodeJS + Express + MongoDB/GridFS
+Uploading/Streaming Audio usando NodeJS + Express + MongoDB/GridFS
 
 
 ## Backend informacion
